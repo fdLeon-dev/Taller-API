@@ -11,8 +11,5 @@ Proyecto simple para aprender a consumir APIs con fetch().
 1. Abrir `index.html` en el navegador
 2. Hacer clic en los botones
 
-## Generar PDF
-Abrir `conclusiones.html` y presionar Ctrl+P → Guardar como PDF
-
 ## API
 REST Countries: https://restcountries.com
